@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Zionknight-crypto.github.io/Robo-Friends/static/css/main.5fcfc3e8.chunk.css",
+    "main.js": "/Zionknight-crypto.github.io/Robo-Friends/static/js/main.7e4970b3.chunk.js",
+    "main.js.map": "/Zionknight-crypto.github.io/Robo-Friends/static/js/main.7e4970b3.chunk.js.map",
+    "runtime-main.js": "/Zionknight-crypto.github.io/Robo-Friends/static/js/runtime-main.1e4729db.js",
+    "runtime-main.js.map": "/Zionknight-crypto.github.io/Robo-Friends/static/js/runtime-main.1e4729db.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Zionknight-crypto.github.io/Robo-Friends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8a3a465d.chunk.js": "/Zionknight-crypto.github.io/Robo-Friends/static/js/2.8a3a465d.chunk.js",
+    "static/js/2.8a3a465d.chunk.js.map": "/Zionknight-crypto.github.io/Robo-Friends/static/js/2.8a3a465d.chunk.js.map",
+    "index.html": "/Zionknight-crypto.github.io/Robo-Friends/index.html",
+    "precache-manifest.beecee6ff2dbba6621d59ea9df00f01f.js": "/Zionknight-crypto.github.io/Robo-Friends/precache-manifest.beecee6ff2dbba6621d59ea9df00f01f.js",
+    "service-worker.js": "/Zionknight-crypto.github.io/Robo-Friends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Zionknight-crypto.github.io/Robo-Friends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5fcfc3e8.chunk.css.map": "/Zionknight-crypto.github.io/Robo-Friends/static/css/main.5fcfc3e8.chunk.css.map",
+    "static/js/2.8a3a465d.chunk.js.LICENSE.txt": "/Zionknight-crypto.github.io/Robo-Friends/static/js/2.8a3a465d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Zionknight-crypto.github.io/Robo-Friends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e4729db.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8a3a465d.chunk.js",
+    "static/css/main.5fcfc3e8.chunk.css",
+    "static/js/main.7e4970b3.chunk.js"
+  ]
+}
